@@ -14,11 +14,18 @@ const Footer = () => {
         <Link href={"/Projects"} className="mx-3 hover:text-accent">
           Projects
         </Link>
-        <Link href={"/Blog"} className="mx-3 hover:text-accent">
+        {/* <Link href={"/Blog"} className="mx-3 hover:text-accent">
           Blog
-        </Link>
+        </Link> */}
         <Link href={"/Contact"} className="mx-3 hover:text-accent">
           Contact
+        </Link>
+        <Link
+          href={"https://hdz-088.github.io/resume/"}
+          className="mx-3 hover:text-accent"
+          target="_blank"
+        >
+          Resume
         </Link>
       </div>
       <hr className="text-caption opacity-20" />

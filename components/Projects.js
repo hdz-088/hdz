@@ -7,25 +7,25 @@ import { ArrowRight } from "react-feather";
 
 const projectData = [
   {
-    title: "Project One",
+    title: "SOUNotes",
     description:
-      "highlighting its features highlighting its features and goals. alpha beta zeta ",
-    imagePath: "/skipper.png",
-    link: "https://example.com/project-one",
+      "A study material website for my college. More than 10k+ page views each month.",
+    imagePath: "/sounotes.png",
+    link: "https://sounotes.vercel.app/",
   },
   {
-    title: "Project Two",
+    title: "TimeBoxxing",
     description:
-      "showcasing its unique aspects and advantages showcasing its unique aspects",
-    imagePath: "/skipper.png",
-    link: "https://example.com/project-two",
+      "A simple web-based tool that allows users to create, edit, and export time blocks. The tool also allows users to delete the last added task and export the created time block as an image.",
+    imagePath: "/timeboxxing.png",
+    link: "https://hdz-088.github.io/TimeBoxing/",
   },
   {
-    title: "Project Three",
+    title: "SoundVoyage",
     description:
-      "focusing on its functionality and user experience showcasing its unique aspects",
-    imagePath: "/skipper.png",
-    link: "https://example.com/project-three",
+      "SoundVoyage: an online no-nonsense music player. Part of BCA College Group Project.",
+    imagePath: "/soundvoyage.png",
+    link: "https://hdz-088.github.io/SoundVoyage/",
   },
 ];
 

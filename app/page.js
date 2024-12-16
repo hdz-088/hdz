@@ -14,7 +14,7 @@ export default function Home() {
     <div className="xl:w-1/2 lg:w-9/12 md:w-9/12 sm:w-11/12 w-[95%]">
       <Profile />
       <Projects />
-      <Blogs />
+      {/* <Blogs /> */}
       <Tools />
       <Contact />
     </div>

@@ -5,39 +5,59 @@ import { ArrowRight } from "react-feather";
 
 const dummyData = [
   {
-    title: "Project One",
+    title: "SOUNotes",
     description:
-      "highlighting its features highlighting its features and goals. alpha beta zeta ",
-    imagePath: "/skipper.png",
-    link: "https://example.com/project-one",
+      "A study material website for my college. More than 10k+ page views each month.",
+    imagePath: "/sounotes.png",
+    link: "https://sounotes.vercel.app/",
   },
   {
-    title: "Project Two",
+    title: "TimeBoxxing",
     description:
-      "showcasing its unique aspects and advantages showcasing its unique aspects",
-    imagePath: "/skipper.png",
-    link: "https://example.com/project-two",
+      "A simple web-based tool that allows users to create, edit, and export time blocks. The tool also allows users to delete the last added task and export the created time block as an image.",
+    imagePath: "/timeboxxing.png",
+    link: "https://hdz-088.github.io/TimeBoxing/",
   },
   {
-    title: "Project Three",
+    title: "PM Modi's Speech Analysis",
     description:
-      "focusing on its functionality and user experience showcasing its unique aspects",
+      "Speech analysis of Indian PM Narendra Modi given during Independence Day of 2024",
     imagePath: "/skipper.png",
-    link: "https://example.com/project-three",
+    link: "https://github.com/hdz-088/PM-Modi-s-Speech",
   },
   {
-    title: "Project Four",
+    title: "Python Mini Projects",
     description:
-      "focusing on its functionality and user experience showcasing its unique aspects",
+      "A GitHub repository that contains various mini projects of Python",
     imagePath: "/skipper.png",
-    link: "https://example.com/project-three",
+    link: "https://github.com/hdz-088/Python-Mini-Projects",
   },
   {
-    title: "Project Five",
+    title: "SoundVoyage",
     description:
-      "focusing on its functionality and user experience showcasing its unique aspects",
+      "SoundVoyage: an online no-nonsense music player. Part of BCA College Group Project.",
+    imagePath: "/soundvoyage.png",
+    link: "https://hdz-088.github.io/SoundVoyage/",
+  },
+  {
+    title: "HomePage",
+    description:
+      "Browser Start Page with Bookmarks, Resources, Personal Sites and Quick Launchers ",
     imagePath: "/skipper.png",
-    link: "https://example.com/project-three",
+    link: "https://hdz-088.github.io/Homepage/",
+  },
+  {
+    title: "Java Mini Projects",
+    description:
+      "A GitHub repository that contains various mini projects of Java",
+    imagePath: "/skipper.png",
+    link: "https://github.com/hdz-088/Java-Mini-Projects",
+  },
+  {
+    title: "StatPy",
+    description: "Python script to find Mean, Median and Mode (Basic Version)",
+    imagePath: "/skipper.png",
+    link: "https://github.com/hdz-088/StatPy",
   },
 ];
 

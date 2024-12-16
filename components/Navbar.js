@@ -19,15 +19,19 @@ const Navbar = () => {
         <Tool strokeWidth={1.5} />
       </Link>
 
-      <Link href={"/Blog"} className="hover:text-accent">
+      {/* <Link href={"/Blog"} className="hover:text-accent">
         <Edit strokeWidth={1.5} />
-      </Link>
+      </Link> */}
 
       <Link href={"/Contact"} className="hover:text-accent">
         <Mail strokeWidth={1.5} />
       </Link>
 
-      <Link href={"/"} className="hover:text-accent">
+      <Link
+        href={"https://hdz-088.github.io/resume/"}
+        target="_blank"
+        className="hover:text-accent"
+      >
         <FileText strokeWidth={1.5} />
       </Link>
     </nav>
